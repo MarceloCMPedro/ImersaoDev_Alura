@@ -1,6 +1,4 @@
-## **README.md Descontraído para sua Aplicação**
-
-### **Filosofando na Web!** 
+## **Filosofando na Web! - Imersao Dev com Gemini** 
 
 **O que essa aplicação faz?**
 
